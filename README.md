@@ -5,7 +5,6 @@
 <p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>Full Stack Developer with 5 years expereince </b> at <strong><a href="https://microverse.org">TechTIQ Solutions</a></strong>. I am <b>passionate</b> about managing team and coding, not just web development, but also want to learn about machine learning, AI, and more. Currently working on <b>MERN</b> projects, but I will master other languages to become a <b>Ph.D of IT.</b></p>
 <br>
 
-<details>
   <summary><strong>Some things I am trying to be better at 🔧</strong></summary>
   <br>
 
@@ -15,12 +14,10 @@
 - Communication Skill &
 - Sleep early 💤
 - Wake up early ☀️
-</details>
 
 <hr>
 <br>
 
-<details>
   <summary><strong>I have knowledge in these languages and tools 🧠</strong></summary>
   <br>
 
@@ -172,12 +169,9 @@
     </tr>
   </table>
 
-</details>
-
 <hr>
 <br>
 
-<details>
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
@@ -189,31 +183,21 @@
 5. 💪 Opened PR [#1](https://github.com//jcy2704/movie-finder/pull/1) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
 <!--END_SECTION:activity-->
 
-</details>
-
 <hr>
 <br>
 
-<details>
   <summary><strong>GitHub Online <img width=17 height=17 src="assets/icons/github.svg" alt="github icon"></strong></summary>
   <br>
   <details>
   <summary>📊 Github Stats</summary><br>
   <img alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=bluedone&count_private=true&show_icons=true&theme=Merko" style="height:214px;"/>
-</details>
 
-<details>
   <summary>&#11088 Language Stats</summary><br>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluedone&theme=Merko&langs_count=15&layout=compact" />
-</details>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluedone&theme=Merko&langs_count=15&layout=compact" />
 
-<details>
   <summary>🔥 Streak stats</summary><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluedone&theme=Merko&hide_border=true)](https://git.io/streak-stats)
-
-</details>
-</details>
 
 <hr>
 <br>
