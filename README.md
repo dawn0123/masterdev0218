@@ -1,4 +1,4 @@
-## Hi there, I am Braydon Liu
+## Hi there, I am Daniel Lee
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps,+Full-Stack+Engineer;Mastering+Node.js+and+Laravel;+AWS+Community+Builder;Open-Source+Enthusiast;Node.js+Lover;Social+Media+Influencer;Blogger;)](https://git.io/typing-svg)
 
