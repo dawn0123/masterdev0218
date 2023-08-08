@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps,+Full-Stack+Engineer;Mastering+Node.js;+AWS+Community+Builder;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;)](https://git.io/typing-svg)
 
-<p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>Full Stack Developer with 5 years expereince </b> at <strong><a href="https://microverse.org">TechTIQ Solutions</a></strong>. I am <b>passionate</b> about managing team and coding, not just web development, but also want to learn about machine learning, AI, and more. Currently working on <b>MERN</b> projects, but I will master other languages to become a <b>Ph.D of IT.</b></p>
+<p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/masterdev0218">GitHub Profile</a></b>. I am currently a <b>Full Stack Developer with 5 years expereince </b> at <strong><a href="https://microverse.org">TechTIQ Solutions</a></strong>. I am <b>passionate</b> about managing team and coding, not just web development, but also want to learn about machine learning, AI, and more. Currently working on <b>MERN</b> projects, but I will master other languages to become a <b>Ph.D of IT.</b></p>
 <br>
 
   <summary><strong>Some things I am trying to be better at 🔧</strong></summary>
@@ -172,23 +172,8 @@
 <hr>
 <br>
 
-  <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#2](https://github.com//jcy2704/movie-finder/pull/2) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
-2. 💪 Opened PR [#2](https://github.com//jcy2704/movie-finder/pull/2) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
-3. ❌ Closed PR [#1](https://github.com//jcy2704/movie-finder/pull/1) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
-4. 🗣 Commented on [#1](https://github.com//jcy2704/movie-finder/issues/1) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
-5. 💪 Opened PR [#1](https://github.com//jcy2704/movie-finder/pull/1) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
-<!--END_SECTION:activity-->
-
-<hr>
-<br>
-
   <summary><strong>GitHub Online <img width=17 height=17 src="assets/icons/github.svg" alt="github icon"></strong></summary>
   <br>
-  <details>
   <summary>📊 Github Stats</summary><br>
   <img alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=bluedone&count_private=true&show_icons=true&theme=Merko" style="height:214px;"/>
 
