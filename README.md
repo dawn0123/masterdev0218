@@ -1,6 +1,6 @@
 ## Hi there, I am Braydon Liu
 
-[![Typing SVG](<https://readme-typing-svg.herokuapp.com/?lines=DevOps,+Full-Stack+Engineer(Node.js);+AWS+Community+Builder;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps,+Full-Stack+Engineer;Mastering+Node.js;+AWS+Community+Builder;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;)](https://git.io/typing-svg)
 
 <img src="assets/website.gif" alt="web developer">
 
