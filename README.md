@@ -182,7 +182,7 @@
 
   <summary>🔥 Streak stats</summary><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluedone&theme=Merko&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masterdev0218&theme=Merko&hide_border=true)](https://git.io/streak-stats)
 
 <hr>
 <br>
