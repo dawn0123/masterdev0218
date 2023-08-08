@@ -174,12 +174,6 @@
 
   <summary><strong>GitHub Online <img width=17 height=17 src="assets/icons/github.svg" alt="github icon"></strong></summary>
   <br>
-  <summary>📊 Github Stats</summary><br>
-  <img alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=masterdev0218&count_private=true&show_icons=true&theme=Merko" style="height:214px;"/>
-
-  <summary>&#11088 Language Stats</summary><br>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterdev0218&theme=Merko&langs_count=15&layout=compact" />
-
   <summary>🔥 Streak stats</summary><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masterdev0218&theme=Merko&hide_border=true)](https://git.io/streak-stats)
