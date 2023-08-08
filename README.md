@@ -162,10 +162,6 @@
         <img alt="dart" height=64px src="https://cdn.worldvectorlogo.com/logos/dart.svg">
         <br>Dart
       </td>
-      <td align="center">
-        <img alt="flutter" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-        <br>Flutter
-      </td>
     </tr>
   </table>
 
